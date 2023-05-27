@@ -1,0 +1,98 @@
+body{text-align: center;
+    background:linear-gradient(#a2d2ff,#EFB0C9) ;
+     font-family: 'Happy Monkey', cursive;
+     
+     
+     color: #ffffff;
+    
+}
+.acpic{
+    width: 200px;
+    height: 200px;
+    border-radius: 100%; 
+    border: 4px solid pink;
+}
+#bdayage{
+    text-shadow: 0px 0px 1px black;
+    background: pink;
+    margin: 8px auto 8px auto;
+    
+}
+#bdaydate
+{
+    text-shadow: 0px 0px 1px black;
+    background: pink;
+    margin: 8px auto 12px auto;
+}
+
+#header
+{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.gift1
+{
+    margin-top: 9px;
+    text-align: center;
+}
+.gipic
+{display: block;
+     margin-left: auto;
+    margin-right: auto;
+    width: 340px;
+    height: 340px;
+    border: 6px solid pink;
+    background-image: url("gif.png");
+    background-size: cover;
+    border-bottom-left-radius: 15%;
+    border-top-left-radius: 15%;
+}
+.msg
+{
+    margin-top: 50px;
+}
+.gipic:hover
+{
+    background-image: url("BMnt.gif");
+    background-size: cover;
+}
+.gipic2
+{
+    display: block;
+    margin-left: auto;
+   margin-right: auto;
+   width: 340px;
+   height: 340px;
+   border: 6px solid pink;
+   background-image: url("gif.png");
+   background-size: cover;
+   border-bottom-left-radius: 15%;
+   border-top-left-radius: 15%; 
+}
+.gipic2:hover
+{
+    background-image: url("1kR5.gif");
+    background-size: cover;
+}
+.gipic3 ,.gipic4,.gipic5{
+    display: block;
+    margin-left: auto;
+   margin-right: auto;
+   width: 340px;
+   height: 340px;
+   border: 6px solid pink;
+   background-image: url("gif.png");
+   background-size: cover;
+   border-bottom-left-radius: 15%;
+   border-top-left-radius: 15%;   
+}
+.gipic3:hover{
+    background-image: url("5Oi.gif");
+}
+.gipic4:hover{
+    background-image: url("hfw.gif");
+}
+.gipic5:hover{
+    background-image: url("T2oT.gif");
+}
